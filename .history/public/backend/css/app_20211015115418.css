@@ -1,0 +1,10 @@
+.error-message {
+  color: red;
+}
+span.far.fa-thumbs-up {
+  color: red;
+  font-size: 20px;
+}
+span.far.fa-thumbs-down {
+  font-size: 20px;
+}
